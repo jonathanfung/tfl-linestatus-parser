@@ -1,0 +1,188 @@
+﻿
+<?xml version="1.0" encoding="utf-8"?>
+
+<ArrayOfLineStatus xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://webservices.lul.co.uk/">
+
+  <LineStatus ID="0" StatusDetails="Train service resumes later this morning. ">
+
+    <BranchDisruptions />
+
+    <Line ID="1" Name="Bakerloo" />
+
+    <Status ID="CS" CssClass="DisruptedService" Description="Planned Closure" IsActive="true">
+
+      <StatusType ID="1" Description="Line" />
+
+    </Status>
+
+  </LineStatus>
+
+  <LineStatus ID="1" StatusDetails="Train service resumes later this morning. ">
+
+    <BranchDisruptions />
+
+    <Line ID="2" Name="Central" />
+
+    <Status ID="CS" CssClass="DisruptedService" Description="Planned Closure" IsActive="true">
+
+      <StatusType ID="1" Description="Line" />
+
+    </Status>
+
+  </LineStatus>
+
+  <LineStatus ID="10" StatusDetails="Train service resumes later this morning. However there will be No service between Edgware Road and Aldgate via Kings Cross due to planned engineering work.">
+
+    <BranchDisruptions />
+
+    <Line ID="7" Name="Circle" />
+
+    <Status ID="CS" CssClass="DisruptedService" Description="Planned Closure" IsActive="true">
+
+      <StatusType ID="1" Description="Line" />
+
+    </Status>
+
+  </LineStatus>
+
+  <LineStatus ID="2" StatusDetails="Train service resumes later this morning. However there will be No service between Turnham Green and Ealing Broadway due to planned engineering work. ">
+
+    <BranchDisruptions />
+
+    <Line ID="9" Name="District" />
+
+    <Status ID="CS" CssClass="DisruptedService" Description="Planned Closure" IsActive="true">
+
+      <StatusType ID="1" Description="Line" />
+
+    </Status>
+
+  </LineStatus>
+
+  <LineStatus ID="8" StatusDetails="Train service resumes later this morning. However there will be No service between Kings Cross and Barking due to planed engineering work.">
+
+    <BranchDisruptions />
+
+    <Line ID="8" Name="Hammersmith and City" />
+
+    <Status ID="CS" CssClass="DisruptedService" Description="Planned Closure" IsActive="true">
+
+      <StatusType ID="1" Description="Line" />
+
+    </Status>
+
+  </LineStatus>
+
+  <LineStatus ID="4" StatusDetails="Train service resumes later this morning. ">
+
+    <BranchDisruptions />
+
+    <Line ID="4" Name="Jubilee" />
+
+    <Status ID="CS" CssClass="DisruptedService" Description="Planned Closure" IsActive="true">
+
+      <StatusType ID="1" Description="Line" />
+
+    </Status>
+
+  </LineStatus>
+
+  <LineStatus ID="9" StatusDetails="Train service resumes later this morning. However there will be No service between Baker Street and Aldgate due to planned engineering work.">
+
+    <BranchDisruptions />
+
+    <Line ID="11" Name="Metropolitan" />
+
+    <Status ID="CS" CssClass="DisruptedService" Description="Planned Closure" IsActive="true">
+
+      <StatusType ID="1" Description="Line" />
+
+    </Status>
+
+  </LineStatus>
+
+  <LineStatus ID="5" StatusDetails="Train service resumes later this morning. However there will be No service between Camden Town and Mill Hill East / High Barnet due to planned engineering work. ">
+
+    <BranchDisruptions />
+
+    <Line ID="5" Name="Northern" />
+
+    <Status ID="CS" CssClass="DisruptedService" Description="Planned Closure" IsActive="true">
+
+      <StatusType ID="1" Description="Line" />
+
+    </Status>
+
+  </LineStatus>
+
+  <LineStatus ID="6" StatusDetails="Train service resumes later this morning. However there will be No service between Acton Town and Uxbridge due to planned engineering work. ">
+
+    <BranchDisruptions />
+
+    <Line ID="6" Name="Piccadilly" />
+
+    <Status ID="CS" CssClass="DisruptedService" Description="Planned Closure" IsActive="true">
+
+      <StatusType ID="1" Description="Line" />
+
+    </Status>
+
+  </LineStatus>
+
+  <LineStatus ID="7" StatusDetails="There will be no service On Sunday due to planned engineering work.">
+
+    <BranchDisruptions />
+
+    <Line ID="3" Name="Victoria" />
+
+    <Status ID="CS" CssClass="DisruptedService" Description="Planned Closure" IsActive="true">
+
+      <StatusType ID="1" Description="Line" />
+
+    </Status>
+
+  </LineStatus>
+
+  <LineStatus ID="11" StatusDetails="Train service resumes at 06.15 hrs on Tuesday.">
+
+    <BranchDisruptions />
+
+    <Line ID="12" Name="Waterloo and City" />
+
+    <Status ID="CS" CssClass="DisruptedService" Description="Planned Closure" IsActive="true">
+
+      <StatusType ID="1" Description="Line" />
+
+    </Status>
+
+  </LineStatus>
+
+  <LineStatus ID="82" StatusDetails="Train service resumes later this morning. However there will be No service between Willesden Junction and Richmond and between Clapham Junction and Kensington Olympia due to planed engineering work.">
+
+    <BranchDisruptions />
+
+    <Line ID="82" Name="Overground" />
+
+    <Status ID="CS" CssClass="DisruptedService" Description="Planned Closure" IsActive="true">
+
+      <StatusType ID="1" Description="Line" />
+
+    </Status>
+
+  </LineStatus>
+
+  <LineStatus ID="81" StatusDetails="Train service resumes later this morning. ">
+
+    <BranchDisruptions />
+
+    <Line ID="81" Name="DLR" />
+
+    <Status ID="CS" CssClass="DisruptedService" Description="Planned Closure" IsActive="true">
+
+      <StatusType ID="1" Description="Line" />
+
+    </Status>
+
+  </LineStatus>
+
+</ArrayOfLineStatus>
